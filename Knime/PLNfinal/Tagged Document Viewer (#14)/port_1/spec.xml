@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain"/>
         <config key="column_properties">
-            <entry key="Word Tokenizer" type="xstring" value="StanfordNLP PTBTokenizer"/>
+            <entry key="Word Tokenizer" type="xstring" value="StanfordNLP SpanishTokenizer"/>
         </config>
         <config key="meta_data">
             <config key="org.knime.ext.textprocessing.data.tag.TaggedValueMetaData">

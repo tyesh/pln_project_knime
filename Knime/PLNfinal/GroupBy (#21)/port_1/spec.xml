@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain"/>
         <config key="column_properties">
-            <entry key="Word Tokenizer" type="xstring" value="StanfordNLP PTBTokenizer"/>
+            <entry key="Word Tokenizer" type="xstring" value="StanfordNLP SpanishTokenizer"/>
         </config>
         <config key="meta_data">
             <config key="org.knime.ext.textprocessing.data.tag.TaggedValueMetaData">
@@ -32,13 +32,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="4"/>
+                    <entry key="IntCell" type="xint" value="2"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="385"/>
+                    <entry key="IntCell" type="xint" value="228"/>
                 </config>
             </config>
         </config>
