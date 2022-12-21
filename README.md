@@ -1,4 +1,4 @@
-# Comparaci ́on entre  ́Arbol de Decisi ́on y Clasificaci ́on por L ́exico aplicado a PNL
+# Comparacion entre  ́Arbol de Decisi ́on y Clasificaci ́on por L ́exico aplicado a PNL
 El crecimiento constante de publicaciones realizadas en las
 redes sociales ha dejado abierta la posibilidad de obtener una gran can-
 tidad de informaci ́on acerca de las opiniones realizadas sobre los m ́as
